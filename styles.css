@@ -33,9 +33,18 @@ img {
 }
 
 footer {
-  margin-top: 5%;
-  color: #EEEEEE;
+  
+  
   text-align: center;
+  
+
+}
+.footer,button{
+  margin-top: 5%;
+  background-color: #4ECCA3;
+  color: yellow;
+  font-size: xx-large;
   font-family: 'Indie Flower', cursive;
+  border-radius: 10px;
 
 }
